@@ -6659,6 +6659,7 @@ body footer {
   color: #dbdbdb;
   font-size: 11px;
   line-height: 13px;
+  overflow: hidden;
 }
 body footer .container {
   height: 110px;
